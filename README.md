@@ -52,8 +52,8 @@ A fun and interactive car game developed using **Python** and **Pygame**. Naviga
 ## Directory Structure
 
 ```
-car-game/
-├── car_game.py          # Main game logic
+Car_Racing_Game/
+├── Car_Game.py          # Main game logic
 ├── New Folder/          # Assets folder
 │   ├── SportCar.png     # Player car image
 │   ├── car1.png         # Traffic car images
