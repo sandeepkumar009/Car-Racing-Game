@@ -14,7 +14,8 @@ A fun and interactive car game developed using **Python** and **Pygame**. Naviga
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Car-Racing-Game.git
+   git clone https://github.com/sandeepkumar009/Car-Racing-Game.git
+   
    cd Car-Racing-Game
    ```
 2. Install the required dependencies:
