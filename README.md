@@ -1,4 +1,4 @@
-# Car Game
+# Car Racing Game
 
 A fun and interactive car game developed using **Python** and **Pygame**. Navigate your car through traffic, avoid collisions, and rack up points as you speed up!
 
