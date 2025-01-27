@@ -64,7 +64,7 @@ class Car(pygame.sprite.Sprite):
 
 class PlayerCar(Car):
     def __init__(self, x, y):
-        image = pygame.image.load("New folder/SportCar.png")
+        image = pygame.image.load("New Folder/SportCar.png")
         super().__init__(image, x, y)
 
         
@@ -81,20 +81,20 @@ player_group.add(player)
 image_filenames = ["car1.png", "car2.png", "car3.png", "car4.png", "car5.png", "car6.png", "car7.png"]
 car_images = []
 for image_filename in image_filenames:
-    image = pygame.image.load('New folder/' + image_filename)
+    image = pygame.image.load('New Folder/' + image_filename)
     car_images.append(image)
 
 # sprite group for other cars
 car_group = pygame.sprite.Group()
 
 # load the crash image
-crash = pygame.image.load('New folder/fire.png')
+crash = pygame.image.load('New Folder/fire.png')
 crash_rect = crash.get_rect()
 
 # load music
-pygame.mixer.music.load("New folder/background_music.wav") 
+pygame.mixer.music.load("New Folder/background_music.wav") 
 pygame.mixer.music.play(-1)
-crash_sound = pygame.mixer.Sound("New folder/crash.wav")
+crash_sound = pygame.mixer.Sound("New Folder/crash.wav")
 
 # game loop
 clock = pygame.time.Clock()
