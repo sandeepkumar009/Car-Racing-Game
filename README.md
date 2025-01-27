@@ -14,8 +14,8 @@ A fun and interactive car game developed using **Python** and **Pygame**. Naviga
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/car-game.git
-   cd car-game
+   git clone https://github.com/yourusername/Car-Racing-Game.git
+   cd Car-Racing-Game
    ```
 2. Install the required dependencies:
    ```bash
@@ -61,10 +61,6 @@ car-game/
 │   └── crash.wav        # Crash sound effect
 └── README.md            # Documentation
 ```
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
