@@ -33,7 +33,7 @@ A fun and interactive car game developed using **Python** and **Pygame**. Naviga
 
 1. Run the game:
    ```bash
-   python car_game.py
+   python Car_Game.py
    ```
 2. Use **Left Arrow Key** (`←`) to move left and **Right Arrow Key** (`→`) to move right.
 3. Avoid collisions with other cars.
